@@ -7,7 +7,7 @@ hero:
   text: "云歌的博客小站~"
   tagline: 上新学习碎碎念与开发日常
   image:
-    src: posts/image/meme.png
+    src: /meme.png
     alt: 自设图
   actions:
     - theme: brand
