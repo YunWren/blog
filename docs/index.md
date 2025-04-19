@@ -17,10 +17,11 @@ hero:
       text: 我的空间
       link: /my-space
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Yun-wren
+    details: 我的github主页
+    link: /
+  - title: yunyungege@outlook.com
+    details: 我的邮箱
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
