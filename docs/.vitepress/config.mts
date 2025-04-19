@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Yun Blog",
+  base: ".",
   description: "云歌的博客小站~",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
