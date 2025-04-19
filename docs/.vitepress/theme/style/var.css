@@ -1,0 +1,13 @@
+/* var.css */
+/* 如下，设置主题色 */
+:root {
+  --vp-c-brand-1: #c56d6b; /* 设置字体的主题颜色固定为绿色 */
+  --vp-c-brand-2: #db8b8a;
+  --vp-c-brand-3: #db9f9e;
+}
+
+.dark {
+  --vp-c-brand-1: #db9f9e;
+  --vp-c-brand-2: #db8b8a;
+  --vp-c-brand-3: #c56d6b;
+}

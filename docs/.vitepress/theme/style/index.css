@@ -1,0 +1,7 @@
+/* style/index.css */
+@import './blur.css';
+@import './rainbow.css';
+/* style/index.css */
+@import './hidden.css';
+/* index.css */
+@import './var.css';
