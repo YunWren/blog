@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as h}from"./chunks/framework.CLNW5JS9.js";const g=JSON.parse('{"title":"4.29","description":"","frontmatter":{},"headers":[],"relativePath":"posts/4.29.md","filePath":"posts/4.29.md"}'),t={name:"posts/4.29.md"};function k(l,s,p,e,E,r){return n(),a("div",null,s[0]||(s[0]=[h("",4)]))}const y=i(t,[["render",k]]);export{g as __pageData,y as default};
